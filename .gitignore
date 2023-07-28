@@ -1,0 +1,5 @@
+*.torrent
+.idea
+
+milotorrent
+*.exe
